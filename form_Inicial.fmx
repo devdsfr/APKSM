@@ -22,7 +22,7 @@ object Form_Inicio: TForm_Inicio
   FormFactor.Height = 480
   FormFactor.Devices = [Desktop]
   OnClose = FormClose
-  DesignerMasterStyle = 0
+  DesignerMasterStyle = 3
   object Layout1: TLayout
     Align = Center
     Size.Width = 233.000000000000000000
@@ -902,10 +902,12 @@ object Form_Inicio: TForm_Inicio
     end
     object Label2: TLabel
       Align = Center
+      StyledSettings = [Family, Style, FontColor]
       HitTest = True
       Size.Width = 241.000000000000000000
       Size.Height = 17.000000000000000000
       Size.PlatformDefault = False
+      TextSettings.Font.Size = 11.000000000000000000
       Text = 'Cadastre-se para localizar o seu gravame.'
       TabOrder = 3
       OnClick = Label2Click

@@ -2,14 +2,14 @@
 <BorlandProject>
 	<Transactions>
     <Transaction>2019/04/28 15:48:27.000.538,=C:\Users\Daniel\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
-    <Transaction>2019/04/28 15:49:47.000.218,C:\Users\Daniel\Documents\Embarcadero\Studio\Projects\Unit4.fmx=C:\Users\Daniel\Desktop\Jobs\APK\form_Inicial.fmx</Transaction>
-    <Transaction>2019/04/28 15:49:47.000.218,C:\Users\Daniel\Documents\Embarcadero\Studio\Projects\Unit4.pas=C:\Users\Daniel\Desktop\Jobs\APK\form_Inicial.pas</Transaction>
-    <Transaction>2019/04/28 15:49:58.000.553,C:\Users\Daniel\Documents\Embarcadero\Studio\Projects\Project3.dproj=C:\Users\Daniel\Desktop\Jobs\APK\SM.dproj</Transaction>
+    <Transaction>2019/04/28 15:49:47.000.218,C:\Users\Daniel\Desktop\Jobs\APK\form_Inicial.pas=C:\Users\Daniel\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2019/04/28 15:49:47.000.218,C:\Users\Daniel\Desktop\Jobs\APK\form_Inicial.fmx=C:\Users\Daniel\Documents\Embarcadero\Studio\Projects\Unit4.fmx</Transaction>
+    <Transaction>2019/04/28 15:49:58.000.553,C:\Users\Daniel\Desktop\Jobs\APK\SM.dproj=C:\Users\Daniel\Documents\Embarcadero\Studio\Projects\Project3.dproj</Transaction>
     <Transaction>2019/04/28 16:25:13.000.935,=C:\Users\Daniel\Desktop\Jobs\APK\Unit1.pas</Transaction>
-    <Transaction>2019/04/28 16:25:52.000.756,C:\Users\Daniel\Desktop\Jobs\APK\Unit1.pas=C:\Users\Daniel\Desktop\Jobs\APK\Form_Login.pas</Transaction>
-    <Transaction>2019/04/28 16:25:52.000.756,C:\Users\Daniel\Desktop\Jobs\APK\Unit1.fmx=C:\Users\Daniel\Desktop\Jobs\APK\Form_Login.fmx</Transaction>
+    <Transaction>2019/04/28 16:25:52.000.756,C:\Users\Daniel\Desktop\Jobs\APK\Form_Login.pas=C:\Users\Daniel\Desktop\Jobs\APK\Unit1.pas</Transaction>
+    <Transaction>2019/04/28 16:25:52.000.756,C:\Users\Daniel\Desktop\Jobs\APK\Form_Login.fmx=C:\Users\Daniel\Desktop\Jobs\APK\Unit1.fmx</Transaction>
   </Transactions>
 	<ActiveMobileDevice>
-		<NoProfile iOSSimulator="iPhone5"/>
+		<NoProfile iOSSimulator="iPhone5" Android="3300d6201f4fa301"/>
 	</ActiveMobileDevice>
 </BorlandProject>
